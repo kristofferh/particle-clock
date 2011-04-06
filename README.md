@@ -1,0 +1,3 @@
+# Particle Clock
+
+A canvas / JavaScript particle clock. Uses native JavaScript to move particles around the screen, based on time. The script writes first creates a set number of randomly sized spherical particles, writes the time string to the canvas, copies the pixel positions, clears the canvas and then tweens the position of the particles. It includes a few customizations via the options panel in the right top. Basically it'a pretty pointless, but a fun, experiment. Oh, and sorry about your CPU... the gradients make it heavy.
